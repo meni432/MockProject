@@ -1,5 +1,7 @@
 # MockProject
 
+[![Build Status](https://travis-ci.com/meni432/MockProject.svg?branch=master)](https://travis-ci.com/meni432/MockProject)
+
 This is simple Mock project writing with Scala.
 currently example of use:
 
