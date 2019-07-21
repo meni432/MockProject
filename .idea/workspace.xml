@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4636ab0a-2d89-46e5-86ac-29f5cb15ef1b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/MockProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/MockProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/mockProject/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/mockProject/Main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/mockProject/api/MockServer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/mockProject/api/MockServer.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/mockProject/api/Transitions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/mockProject/api/Transitions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/mockProject/server/MockWorker.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/mockProject/server/MockWorker.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -82,32 +77,32 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+              <first_editor relative-caret-position="272">
+                <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../.ivy2/cache/com.typesafe.akka/akka-http_2.13/srcs/akka-http_2.13-10.1.9-sources.jar!/akka/http/scaladsl/server/directives/BasicDirectives.scala">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1836">
-              <caret line="129" column="6" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
+            <state relative-caret-position="34">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../.ivy2/cache/com.typesafe.akka/akka-http_2.13/srcs/akka-http_2.13-10.1.9-sources.jar!/akka/http/scaladsl/server/directives/RouteDirectives.scala">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -184,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/mockProject/api/Transitions.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/mockProject/server/MockWorker.scala" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -272,7 +268,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -370,12 +366,20 @@
       <workItem from="1563655934064" duration="24000" />
       <workItem from="1563655989710" duration="1205000" />
       <workItem from="1563657290463" duration="3998000" />
-      <workItem from="1563733886198" duration="466000" />
+      <workItem from="1563733886198" duration="1946000" />
     </task>
+    <task id="LOCAL-00001" summary="Finish Readme">
+      <created>1563734445745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563734445745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6030000" />
+    <option name="totallyTimeSpent" value="7510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2567" y="-564" width="2062" height="1126" extended-state="6" />
@@ -421,6 +425,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finish Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Readme" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -436,13 +444,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/api/ParseDefinitions.scala" />
     <entry file="file://$PROJECT_DIR$/target/.history">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala" />
     <entry file="jar://$PROJECT_DIR$/../.ivy2/cache/com.typesafe.akka/akka-actor_2.13/srcs/akka-actor_2.13-2.5.23-sources.jar!/akka/pattern/PipeToSupport.scala">
@@ -579,10 +580,24 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>
