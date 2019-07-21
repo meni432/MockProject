@@ -1,12 +1,7 @@
 package mockProject.api
 
-
 import scala.concurrent.duration._
 import scala.language.postfixOps
-
-
-
-
 
 object Test {
 
