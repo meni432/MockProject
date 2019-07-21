@@ -6,7 +6,8 @@ This is simple Mock project writing with Scala.
 currently example of use:
 
 Simple usage example
-```  import api.Transition._
+```scala
+  import api.Transition._
 
   val setApplication = new StartDefined {}
 
